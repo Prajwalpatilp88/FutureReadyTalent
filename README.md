@@ -1,6 +1,6 @@
 # onlinehealthyfoodorderingsystem
 
-This Project is Made for Future ready talent offered by microsoft azure https://onlinefoodorderingsystem.azurewebsites.net
+This Project is Made for Future ready talent offered by microsoft azure https://black-tree-0ea26c610.1.azurestaticapps.net
 
 My project title is "Online Healthy Food Ordering System".This is a Web application developing to provide complete solutions for vendors/owner as well as customers through a single get way using the internet.It will enable vendors/Owner to setup online foods, customer to browse through the shop and purchase them online without having to visit the shop physically in this pandemic situation.
 
