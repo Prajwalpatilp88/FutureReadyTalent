@@ -15,8 +15,3 @@ Then in Deployment section
 deployment centre >settings fill the needed details like repository name URL Branch
 
 Then You can deploy website in overview when you click on URL you can see youre websiteDeployment_centre Overview
-
-![image](https://user-images.githubusercontent.com/79084311/153705843-2c6ec97a-826d-4f02-9cf9-f02e82b8f1de.png)
-
-
-
